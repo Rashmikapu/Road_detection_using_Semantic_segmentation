@@ -1,0 +1,2 @@
+# Road_detection_using_Semantic_segmentation
+Identification of drivable path using Semantic segmentation
