@@ -2,9 +2,13 @@
 Identification of drivable path using Semantic segmentation
 
 Contributors :
+
 --> Neha Madhekar
+
 --> Rashmi Kapu
+
 --> Yashas Shetty
+
 --------READ ME---------------
 
 THE CODE FILES ARE ALL IN .ipynb FORMAT. 
